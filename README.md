@@ -35,4 +35,4 @@ For comparisons, select the correction method, decoder rank, channel, DD sequenc
 
 New hardware runs may produce different results because backend calibrations, layouts and compiled circuits can change.
 
-## Paper
+## Reference 
