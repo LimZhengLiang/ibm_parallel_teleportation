@@ -11,7 +11,7 @@ Notebooks and selected experimental data for two-channel quantum teleportation u
 
 | Notebook | Purpose |
 | --- | --- |
-| [Rank 1 cascade](main_scripts/NEWv2MCM_SHARED_PREPARATION_RANK1_TEST_NEWv7_V5_M3_DIRECT_CHSH.ipynb) | Hardware reference–receiver entanglement fidelity at R0–R3, comparing classical post-processing and feedforward. |
+| [Rank 1 cascade](main_scripts/NEWv5_MCM_CLASSICAL_R456_RANK1.ipynb) | Hardware reference–receiver entanglement fidelity at R0–R3, using classical post-processing. |
 | [Rank 58 cascade](main_scripts/NEWv2MCM_SHARED_PREPARATION_RANK58_TEST_NEWv7_V5_M3_DIRECT_CHSH.ipynb) | Corresponding R0–R3 experiments with the rank-58 decoder. |
 | [Rank 1 stage diagnostics](main_scripts/ame52_full_extended_analysis_v13_mcm_rank1_v044_TEST.ipynb) | Tomography, stabilizer-generator witnesses, SWAP tests and Bell-outcome-conditioned receiver analysis. |
 | [Rank 58 decoding diagnostics](main_scripts/rank58_v234former_stage2_v044_TEST.ipynb) | Stage-2 characterisation after AME preparation and rank-58 decoding. |
