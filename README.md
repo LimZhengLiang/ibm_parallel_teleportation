@@ -1,6 +1,6 @@
 # Parallel Teleportation via AME(5,2) States on IBM Quantum Hardware
 
-Notebooks and experimental data for two-channel quantum teleportation using a five-qubit absolutely maximally entangled state, AME(5,2) [It also contains data for the stag-resolved experiment shown in the Supplementary Materials]. The experiments compare decoder ranks 1 and 58, dynamical decoupling settings, and classical Pauli frame post-processing versus real-time feedforward.
+Notebooks and experimental data for two-channel quantum teleportation using a five-qubit absolutely maximally entangled state, AME(5,2) [It also contains data for the stage-resolved experiment shown in the Supplementary Materials]. The experiments compare decoder ranks 1 and 58, dynamical decoupling settings, and classical Pauli frame post-processing versus real-time feedforward.
 
 ## Repository contents
 
